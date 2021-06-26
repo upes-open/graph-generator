@@ -1,4 +1,5 @@
 # Graph Generator
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)&nbsp;&nbsp;&nbsp;[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)&nbsp;&nbsp;&nbsp;
 
 ## What is Graph-Generator?
 A java project which provides a graphical representation of the mathematical equations, functions and expressions that the user enters. Any equation you will type will be processed and represented graphically in 2D .This library can be exported and used as per the need on different platforms.
@@ -31,3 +32,5 @@ You could join our slack team in case you need any help or have any questions. [
 
 ## License
 [Apache-2.0](LICENSE)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
